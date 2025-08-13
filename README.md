@@ -12,11 +12,11 @@ This project was developed during Career Foundry's Data Analytics Immersion Cour
 
 <h3>What you will find in this repository</h3>
 <ol>
-  <li>Project Management - A complete project briefing, with a corresponding detailed context</li> 
+  <li>Project Brief - A complete project briefing, with a corresponding detailed context</li> 
   <li>Data - The original dataset, and the final dataset after cleaning data (*.tar files)</li>
   <li>SQL queries - All exploratory data analytics queries and also the queries that were developed to answer specific business</li>
-  <li>Analysis - The queries outputs (*.csv files) and support imagery created in Tableau to be included in final presentation</li>
-  <li>Sent to Client - The final project deliverables:
+  <li>Support - The queries outputs (*.csv files) and support imagery created in Tableau to be included in final presentation</li>
+  <li>Deliverables - The final project deliverables:
     <ul>
       <li>Presentation (*.ppt and *.pdf formats)</li>
       <li>The Data Dictionary (*.pdf) - Contains a Entity Relationship Diagram and a full description of the tables in the DB</li>
