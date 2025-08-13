@@ -1,0 +1,4 @@
+"rental_rate","number_of_films","number_of_rentals","revenue_per_rental_rate","rate_avg_revenue_per_film","rate_avg_revenue_per_rental","normalized_avg_revenue_per_rental"
+"4.99","320","4782","29944.19","93.58","6.26","1.25"
+"2.99","312","4670","19451.27","62.34","4.17","1.39"
+"0.99","326","5140","11907.62","36.53","2.32","2.34"
