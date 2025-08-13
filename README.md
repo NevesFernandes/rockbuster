@@ -25,4 +25,4 @@ This project was developed during Career Foundry's Data Analytics Immersion Cour
   </li>
 </ol>
 <h3>Case Study</h3>
-If you were not redirected from there, take a look at the <a href="https://nevesfernandes.github.io/rockbuster.html">Case Study</a> in my portfolio
+If you were not redirected from there, take a look at the <a href="https://nevesfernandes.github.io/rockbuster.html" target="_blank">Case Study</a> in my portfolio
