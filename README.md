@@ -22,4 +22,4 @@ This project was developed during Career Foundry's Data Analytics Immersion Cour
    - SQL documentation (*.xlsx) – A compilation of all the queries and query outputs, to be shared with technical peers  
 
 ### Case Study  
-If you were not redirected from there, take a look at the [Case Study](https://nevesfernandes.github.io/rockbuster.html){:target="_blank"} in my portfolio.  
+If you were not redirected from there, take a look at the [Case Study](https://nevesfernandes.github.io/rockbuster.html) in my portfolio.  
