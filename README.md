@@ -12,10 +12,10 @@ Extract key insights from RockBuster’s operational database to help with the l
 This project was developed during Career Foundry's Data Analytics Immersion Course, with the main focus of helping me to further develop my skills in SQL, while applying them in the scope of a full project, from data cleaning to stakeholders presentation.  
 
 ### What you will find in this repository  
-1. **Project Brief** – A complete project briefing, with a corresponding detailed context  
+1. **Project Brief** – A complete project brief, with a corresponding detailed context and business goals
 2. **Data** – The original dataset, and the final dataset after cleaning data (*.tar files)  
-3. **SQL queries** – All exploratory data analytics queries and also the queries that were developed to answer specific business  
-4. **Support** – The queries outputs (*.csv files) and support imagery created in Tableau to be included in final presentation  
+3. **SQL queries** – All exploratory data analytics queries and also the queries that were developed to answer specific business questions
+4. **Support** – The queries outputs (*.csv files) and support imagery created in Tableau to be included in the final presentation  
 5. **Deliverables** – The final project deliverables:  
    - Presentation (*.ppt and *.pdf formats)  
    - The Data Dictionary (*.pdf) – Contains an Entity Relationship Diagram and a full description of the tables in the DB  
